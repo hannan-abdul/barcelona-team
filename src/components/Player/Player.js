@@ -1,15 +1,27 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFutbol } from '@fortawesome/free-solid-svg-icons'
+import './Player.css'
+import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css'
 
 const Player = (props) => {
-    const playerStyle = {border: '1px solid black', margin: '10px', padding: '10px'}
+    const { image, name, country, birth, salary, age } = props.player;
     const handleAddPlayer = props.handleAddPlayer;
     return (
-        <div style={playerStyle}>
-            <h3>Name: {props.player.name}</h3>
-            <h4>Country: {props.player.country}</h4>
-            <h4>Birth: {props.player.birth}</h4>
-            <p>Salary: ${props.player.salary}</p>
-            <button style={{cursor: 'pointer'}} onClick={() => handleAddPlayer(props.player)}>Add Details</button>
+        <div className='player-div container'>
+            <div className='row align-items-center'>
+                <div className='col-6'>
+                    <img src={image} alt="" />
+                    <h3>{name}</h3>
+                </div>
+                <div className='col-6'>
+                    <h4>Country: {country}</h4>
+                    <h4>Birth: {birth}</h4>
+                    <h4>Age: {age}</h4>
+                    <p>Salary: ${salary}</p>
+                    <button className='btn btn-info' onClick={() => handleAddPlayer(props.player)}><FontAwesomeIcon icon={faFutbol} />Add Player</button>
+                </div>
+            </div>
         </div>
     );
 };

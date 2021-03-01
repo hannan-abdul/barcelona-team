@@ -1,0 +1,18 @@
+.team-container{
+    text-align: center;
+    margin: auto;
+}
+.team-container img{
+    width: 150px;
+}
+.player-container{
+    background-color: #ade6de3b;
+}
+.player-card{
+    width: 30%;
+}
+.fix-position{
+    position: fixed;
+    top: 150px;
+    right: 88px;
+}
