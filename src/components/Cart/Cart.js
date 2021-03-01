@@ -13,12 +13,12 @@ const Cart = (props) => {
     }
 
     return (
-        <div>
+        <div className='playerDetails'>
             <h3>Player Added: {cart.length}</h3>
-            <h3>Selected Player</h3>
+            <h3>Selected Player:</h3>
             <ul>
                 {
-                    cart.map(carts => <li>{carts.name}: ${carts.salary}</li>)
+                    cart.map(singleName => <li>{singleName.name}: ${singleName.salary}</li>)
                 }
             </ul>
             <h4>Total Budget: ${yearlyEarning}</h4>

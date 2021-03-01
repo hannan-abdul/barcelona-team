@@ -29,7 +29,7 @@ const Team = () => {
                         players.map(player => <Player player={player} handleAddPlayer={handleAddPlayer}></Player>)
                     }
                 </div>
-                <div className='col-3 fix-position'>
+                <div className='col-3'>
                     <Cart cart={cart}></Cart>
                 </div>
             </div>

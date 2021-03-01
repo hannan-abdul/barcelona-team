@@ -2,7 +2,7 @@
     "id": 1,
     "name": "Lionel Messi",
     "age": 34,
-    "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec595d45f39760007b05c07%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D989%26cropX2%3D2480%26cropY1%3D74%26cropY2%3D1564",
+    "image": "https://i.ibb.co/FzfSN2Y/messi.jpg",
     "country": "Argentina",
     "birth": "24-06-1987",
     "salary": 220000
@@ -10,7 +10,7 @@
     "id": 2,
     "name": "Sergi Roberto",
     "age": 29,
-    "image": "https://tmssl.akamaized.net/images/foto/normal/sergi-roberto-barcelona-1590674579-39873.jpg?lm=1590674569",
+    "image": "https://i.ibb.co/4MzK2Y1/sergi-roberto.jpg",
     "country": "Spain",
     "birth": "07-02-1992",
     "salary": 200000
@@ -18,7 +18,7 @@
     "id": 3,
     "name": "Jordi Alba",
     "age": 32,
-    "image": "https://assets.laliga.com/squad/2020/t178/p52356/2048x2048/p52356_t178_2020_1_002_000.jpg",
+    "image": "https://i.ibb.co/6nCm93t/Jordi-Alba.jpg",
     "country": "Spain",
     "birth": "21-03-1989",
     "salary": 200000
@@ -26,7 +26,7 @@
     "id": 4,
     "name": "Samuel Umtiti",
     "age": 28,
-    "image": "https://cdn.vox-cdn.com/thumbor/DeWMnTimf1o5RO3gM-ZCmpP-3Xg=/0x0:4282x5709/1400x933/filters:focal(2110x556:2794x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67687546/1204526628.jpg.0.jpg",
+    "image": "https://i.ibb.co/tK5KYQt/Samuel-Umtiti.jpg",
     "country": "Cameroon",
     "birth": "14-11-1993",
     "salary": 150000
@@ -34,7 +34,7 @@
     "id": 5,
     "name": "Sergio Busquets",
     "age": 33,
-    "image": "https://icdn.football-espana.net/wp-content/uploads/2020/11/Sergio-Busquets4.jpg",
+    "image": "https://i.ibb.co/XZkGTCp/Sergio-Busquets.jpg",
     "country": "Spain",
     "birth": "16-07-1988",
     "salary": 120000
@@ -42,7 +42,7 @@
     "id": 6,
     "name": "Miralem Pjanic",
     "age": 31,
-    "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/06/27/15932846001715.jpg",
+    "image": "https://i.ibb.co/7XPFkz5/Miralem-Pjanic.jpg",
     "country": "SFR Yugoslavia",
     "birth": "02-04-1990",
     "salary": 180000
@@ -50,7 +50,7 @@
     "id": 7,
     "name": "Philippe Coutinho",
     "age": 29,
-    "image": "https://cdn.vox-cdn.com/thumbor/Ql3Z5tWLYPpcFcX75OIg9DyS_4w=/0x0:4500x2999/1200x800/filters:focal(1858x762:2578x1482)/cdn.vox-cdn.com/uploads/chorus_image/image/68553315/1291364734.0.jpg",
+    "image": "https://i.ibb.co/QCSd9TG/Philippe-Coutinho.jpg",
     "country": "Brazil",
     "birth": "12-06-1992",
     "salary": 190000
@@ -58,7 +58,7 @@
     "id": 8,
     "name": "Pedri",
     "age": 19,
-    "image": "https://icdn.football-espana.net/wp-content/uploads/2020/12/Pedri-1.jpg",
+    "image": "https://i.ibb.co/vLJZ24Q/Pedri.jpg",
     "country": "Spain",
     "birth": "25-11-2002",
     "salary": 185000
@@ -66,7 +66,7 @@
     "id": 9,
     "name": "Matheus Fernandes",
     "age": 23,
-    "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/10/10/16023512108883.jpg",
+    "image": "https://i.ibb.co/9bD5h4j/Matheus-Fernandes.jpg",
     "country": "Brazil",
     "birth": "30-06-1998",
     "salary": 195000
@@ -74,7 +74,7 @@
     "id": 10,
     "name": "Antoine Griezmann",
     "age": 30,
-    "image": "https://icdn.football-espana.net/wp-content/uploads/2020/11/hi-res-6a3dc4558f264a5fb2f59f2af5b843a0_crop_north.jpg",
+    "image": "https://i.ibb.co/K0SdS3d/Antoine-Griezmann.jpg",
     "country": "France",
     "birth": "21-03-1991",
     "salary": 175000
@@ -82,7 +82,7 @@
     "id": 11,
     "name": "Martin Braithwaite",
     "age": 19,
-    "image": "https://pbs.twimg.com/profile_images/1231549032943800320/WR769kKG_400x400.jpg",
+    "image": "https://i.ibb.co/NKR0mnG/Martin-Braithwaite.jpg",
     "country": "Guinea-Bissau",
     "birth": "31-10-2002",
     "salary": 165000
@@ -90,7 +90,7 @@
     "id": 12,
     "name": "Anssumane Fati",
     "age": 12,
-    "image": "https://www.fcbarcelona.com/photo-resources/2019/11/07/87145d11-39e4-412a-ae79-9fc62a79391b/ansu_fati.jpg?width=1200&height=750",
+    "image": "https://i.ibb.co/0YFxYNK/Anssumane-Fati.jpg",
     "country": "Sibeal",
     "birth": "54-033-8861",
     "salary": 155000
@@ -98,7 +98,7 @@
     "id": 13,
     "name": "Ousmane Dembele",
     "age": 24,
-    "image": "https://le10static.com/img/master/0000/0016/167247.jpeg",
+    "image": "https://i.ibb.co/bHq1dNr/Ousmane-Dembele.jpg",
     "country": "France",
     "birth": "15-05-1997",
     "salary": 210000
@@ -106,7 +106,7 @@
     "id": 14,
     "name": "Neto",
     "age": 32,
-    "image": "https://s.hs-data.com/bilder/spieler/gross/151566.jpg",
+    "image": "https://i.ibb.co/6ZpM0JW/Neto.jpg",
     "country": "Brazil",
     "birth": "19-07-1989",
     "salary": 205000
@@ -114,7 +114,7 @@
     "id": 15,
     "name": "Ronald Araujo",
     "age": 22,
-    "image": "https://images.beinsports.com/oGvoE1QKKUdsRRlBZcBsROsyKR0=/full-fit-in/1000x0/ronald-araujo_z4o75i4dj2tdzjp2msgbf0c9.jpg",
+    "image": "https://i.ibb.co/gwBF8yz/Ronald-Araujo.jpg",
     "country": "Uruguay",
     "birth": "07-03-1999",
     "salary": 175000

@@ -1,3 +1,7 @@
 ul li{
     list-style: none;
+    color: #8f2800;
+}
+.playerDetails h4{
+    color: lightsalmon;
 }
