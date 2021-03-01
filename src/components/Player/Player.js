@@ -16,9 +16,9 @@ const Player = (props) => {
                 </div>
                 <div className='col-6'>
                     <h4>Country: {country}</h4>
-                    <h4>Birth: {birth}</h4>
+                    <h6>Birth: {birth}</h6>
                     <h4>Age: {age}</h4>
-                    <p>Salary: ${salary}</p>
+                    <h5>Salary: ${salary}</h5>
                     <button className='btn btn-info' onClick={() => handleAddPlayer(props.player)}><FontAwesomeIcon icon={faFutbol} />Add Player</button>
                 </div>
             </div>

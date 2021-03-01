@@ -1,9 +1,10 @@
 import React from 'react';
+import './Cart.css'
 
 const Cart = (props) => {
 
     const cart = props.cart;
-    console.log(cart)
+    // console.log(cart)
 
     let yearlyEarning = 0;
     for (let i = 0; i < cart.length; i++) {
@@ -11,16 +12,16 @@ const Cart = (props) => {
         yearlyEarning = yearlyEarning + player.salary;  
     }
 
-    let playerName = '';
-    for (let i = 0; i < cart.length; i++) {
-        const name = cart[i];
-        playerName = playerName+name.name;
-    }
     return (
         <div>
-            <h2>Player Added: {cart.length}</h2>
-            <h3>Total: ${yearlyEarning}</h3>
-            <p>{playerName}</p>
+            <h3>Player Added: {cart.length}</h3>
+            <h3>Selected Player</h3>
+            <ul>
+                {
+                    cart.map(carts => <li>{carts.name}: ${carts.salary}</li>)
+                }
+            </ul>
+            <h4>Total Budget: ${yearlyEarning}</h4>
         </div>
     );
 };
